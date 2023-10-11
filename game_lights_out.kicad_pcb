@@ -19685,6 +19685,8 @@
     (stroke (width 0.198) (type default)) (layer "F.SilkS") (tstamp f2e165b0-86f4-4db3-8e01-9d68247b26b6))
   (gr_line (start 191.141912 149.278363) (end 191.142349 149.283345)
     (stroke (width 1.5) (type solid)) (layer "F.SilkS") (tstamp f4386e14-d726-4310-bee0-471387229354))
+  (gr_line (start 40.720182 32.4) (end 157.81 32.4)
+    (stroke (width 0.15) (type default)) (layer "F.SilkS") (tstamp f487ff64-ea47-401e-adaf-506875a69c5e))
   (gr_line (start 53 160.587) (end 200 160.587)
     (stroke (width 0.198) (type default)) (layer "F.SilkS") (tstamp fa23699d-6400-4149-a786-db405ef2c640))
   (gr_poly
@@ -24779,9 +24781,6 @@
     (stroke (width 0.1) (type solid)) (fill none) (layer "Edge.Cuts") (tstamp f7a2213d-2ab2-43f4-8f5f-e2a6125e2d69))
   (gr_text "VCC" (at 49.695124 80.1624) (layer "B.SilkS") (tstamp 5ae4e6f3-91fc-4f58-849a-d770cc3df23e)
     (effects (font (size 1 1) (thickness 0.15)) (justify left bottom mirror))
-  )
-  (gr_text "JLCJLCJLCJLC" (at 96.2 159.8) (layer "B.SilkS") (tstamp 7a243474-198b-4a09-9926-565f1fffac6c)
-    (effects (font (size 1.5 1.5) (thickness 0.3) bold) (justify left bottom mirror))
   )
   (gr_text "MISO" (at 48.26 97.155) (layer "B.SilkS") (tstamp b8d1a2fa-e37e-425b-90c8-76d0d4fa50df)
     (effects (font (size 1 1) (thickness 0.15)) (justify left bottom mirror))
