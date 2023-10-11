@@ -3605,7 +3605,7 @@
 
   (footprint "MountingHole:MountingHole_3.2mm_M3_DIN965_Pad" (layer "F.Cu")
     (tstamp 7b2038c8-30aa-4904-80e8-fa07fd98b5b7)
-    (at 113 136)
+    (at 113 124)
     (descr "Mounting Hole 3.2mm, M3, DIN965")
     (tags "mounting hole 3.2mm m3 din965")
     (attr exclude_from_pos_files exclude_from_bom)
@@ -5290,31 +5290,6 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
-  )
-
-  (footprint "MountingHole:MountingHole_3.2mm_M3_DIN965_Pad" (layer "F.Cu")
-    (tstamp cd9bc31d-2984-4d3c-b22e-b712020b1e11)
-    (at 113 75)
-    (descr "Mounting Hole 3.2mm, M3, DIN965")
-    (tags "mounting hole 3.2mm m3 din965")
-    (attr exclude_from_pos_files exclude_from_bom)
-    (fp_text reference "REF**" (at 0 -3.8) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp ea105acc-c4f1-4301-aef8-6deb7d29a4b2)
-    )
-    (fp_text value "MountingHole_3.2mm_M3_DIN965_Pad" (at 0 3.8) (layer "F.Fab") hide
-        (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp fbf5c57d-e18a-4a08-aebf-f92e18668e43)
-    )
-    (fp_text user "${REFERENCE}" (at -0.01 -0.25) (layer "F.Fab") hide
-        (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 849d11e6-d835-4852-a669-38df62357918)
-    )
-    (fp_circle (center 0 0) (end 2.8 0)
-      (stroke (width 0.15) (type solid)) (fill none) (layer "Cmts.User") (tstamp 8a76c5b0-6701-4ca5-b1eb-a09487b79672))
-    (fp_circle (center 0 0) (end 3.05 0)
-      (stroke (width 0.05) (type solid)) (fill none) (layer "F.CrtYd") (tstamp 5f1a3584-1a94-49c0-a50b-6784c5bf5729))
-    (pad "1" thru_hole circle (at 0 0) (size 5.6 5.6) (drill 3.2) (layers "*.Cu" "*.Mask") (tstamp 1adc0e7c-b0e6-493a-92a0-1bb1996e434b))
   )
 
   (footprint "kicad_footprints:SW_PUSH_6mm_H5mm" (layer "F.Cu")
@@ -19685,8 +19660,6 @@
     (stroke (width 0.198) (type default)) (layer "F.SilkS") (tstamp f2e165b0-86f4-4db3-8e01-9d68247b26b6))
   (gr_line (start 191.141912 149.278363) (end 191.142349 149.283345)
     (stroke (width 1.5) (type solid)) (layer "F.SilkS") (tstamp f4386e14-d726-4310-bee0-471387229354))
-  (gr_line (start 40.720182 32.4) (end 157.81 32.4)
-    (stroke (width 0.15) (type default)) (layer "F.SilkS") (tstamp f487ff64-ea47-401e-adaf-506875a69c5e))
   (gr_line (start 53 160.587) (end 200 160.587)
     (stroke (width 0.198) (type default)) (layer "F.SilkS") (tstamp fa23699d-6400-4149-a786-db405ef2c640))
   (gr_poly
