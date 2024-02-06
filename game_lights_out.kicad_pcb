@@ -13067,7 +13067,7 @@
     )
 
     (stroke (width 0) (type solid)) (fill solid) (layer "F.SilkS") (tstamp 00baff52-2686-4017-8ba9-bd8f1a0ac6a7))
-  (gr_arc (start 188.369421 136.54714) (mid 187.951079 132.883899) (end 190.590734 130.309685)
+  (gr_arc (start 188.52351 136.040119) (mid 188.426032 132.354357) (end 191.279999 130.020001)
     (stroke (width 0.48) (type solid)) (layer "F.SilkS") (tstamp 08c8d607-8459-4d9b-91ec-27dbbb5f9864))
   (gr_line (start 186.86 89.65) (end 185.53 80.23)
     (stroke (width 0.32) (type solid)) (layer "F.SilkS") (tstamp 355e44a7-f2b0-407a-8a3f-7bf91611dbdc))
@@ -15136,7 +15136,7 @@
     )
 
     (stroke (width 0) (type solid)) (fill solid) (layer "F.SilkS") (tstamp 44711b52-c989-4b40-a8dc-11f3a01f4c51))
-  (gr_arc (start 190.745558 124.172151) (mid 193.009884 127.299966) (end 190.590734 130.309684)
+  (gr_arc (start 191.969156 123.919316) (mid 193.952261 127.23263) (end 191.28 130.02)
     (stroke (width 0.48) (type solid)) (layer "F.SilkS") (tstamp 4622ba1f-4fa4-4421-87cd-36b84d3964f3))
   (gr_poly
     (pts
@@ -18338,7 +18338,7 @@
     )
 
     (stroke (width 0) (type solid)) (fill solid) (layer "F.SilkS") (tstamp 8e1b304f-dcf3-4d90-8637-5b67e178c217))
-  (gr_line (start 193.327225 146.318328) (end 193.65 147.81)
+  (gr_line (start 192.983432 146.124218) (end 193.434987 147.582082)
     (stroke (width 1.25) (type solid)) (layer "F.SilkS") (tstamp 91a856a9-ee7f-46a0-b3ad-9d733c59f35f))
   (gr_poly
     (pts
@@ -19717,7 +19717,7 @@
     (stroke (width 0) (type solid)) (fill solid) (layer "F.SilkS") (tstamp eb483e3e-df0b-4927-ae50-fbe781e5e70b))
   (gr_line (start 53 159.98) (end 200 159.98)
     (stroke (width 0.198) (type default)) (layer "F.SilkS") (tstamp f2e165b0-86f4-4db3-8e01-9d68247b26b6))
-  (gr_line (start 190.711061 146.78003) (end 190.711498 146.785012)
+  (gr_line (start 190.417464 146.812177) (end 190.418333 146.817102)
     (stroke (width 1.25) (type solid)) (layer "F.SilkS") (tstamp f4386e14-d726-4310-bee0-471387229354))
   (gr_line (start 53 160.587) (end 200 160.587)
     (stroke (width 0.198) (type default)) (layer "F.SilkS") (tstamp fa23699d-6400-4149-a786-db405ef2c640))
@@ -24835,7 +24835,7 @@
   (gr_text "HARD" (at 193.54 83.64 80) (layer "F.SilkS") (tstamp 55f73714-73e5-4b91-ba87-f3bfb67a75b3)
     (effects (font (size 1.8 1.8) (thickness 0.28)) (justify right))
   )
-  (gr_text "MODE\nRESTART" (at 191.73 145.03 100) (layer "F.SilkS") (tstamp 723e57df-bbb8-4b50-8fe1-db60f6cb3dee)
+  (gr_text "MODE\nSTART" (at 191.28 144.98 105) (layer "F.SilkS") (tstamp 723e57df-bbb8-4b50-8fe1-db60f6cb3dee)
     (effects (font (size 1.8 1.8) (thickness 0.28)) (justify left))
   )
   (gr_text "EASY" (at 183.69 83.56 99) (layer "F.SilkS") (tstamp bc2a3734-5849-4a10-b399-abbaa3edc258)
